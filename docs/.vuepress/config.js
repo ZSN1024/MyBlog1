@@ -1,5 +1,5 @@
 module.exports = {
-  // base: '/blog-demo/',
+  base: '/MyBlog/',
   title: 'zsn的前端日志',
   description: '欢迎访问我的前端日志',
   themeConfig: {
