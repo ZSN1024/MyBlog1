@@ -43,7 +43,7 @@ module.exports = {
           title: 'interview',
           collapsable: true,
           children: [
-            "FirstBook"
+            "FirstInterview"
           ]
         }
       ]
