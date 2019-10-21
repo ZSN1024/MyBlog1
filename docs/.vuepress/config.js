@@ -22,7 +22,7 @@ module.exports = {
       "/blog/": [
         {
           title: 'Devops',
-          collapsable: false,
+          collapsable: true,
           children: [
             "FirstBlog",
             "second"
@@ -37,7 +37,17 @@ module.exports = {
             "ts_advanced"
           ]
         }
+      ],
+      "/interview/":[
+        {
+          title: 'interview',
+          collapsable: true,
+          children: [
+            "FirstBook"
+          ]
+        }
       ]
-    }
+    },
+    lastUpdated: 'Last Updated'
   }
 }
