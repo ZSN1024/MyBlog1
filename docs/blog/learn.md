@@ -9,7 +9,7 @@ jfog是什么？
 - js作用域，闭包 （1）
 mysql和mogoDb
 node
-makelife ,参考element创建模板
+makefile ,参考element创建模板
 mac 中，是直接可以执行 make 命令的。 Windows下载 make 的 GUN 工具 
 http://gnuwin32.sourceforge.net/packages/make.htm
 ## 截止日期
