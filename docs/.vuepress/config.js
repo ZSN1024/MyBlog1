@@ -25,7 +25,8 @@ module.exports = {
           collapsable: true,
           children: [
             "FirstBlog",
-            "second"
+            "second",
+            "learn"
           ]
         },
         {
