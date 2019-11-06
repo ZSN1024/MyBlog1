@@ -30,6 +30,13 @@ module.exports = {
           ]
         },
         {
+          title: 'javascript',
+          collapsable: false,
+          children: [
+            "ScopeAndThis"
+          ]
+        },
+        {
           title: 'typescript',
           collapsable: false,
           children: [
