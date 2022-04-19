@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.jpg
-heroText: 郑少农的博客
+heroText: zsn的博客
 tagline: 博客示例
 actionText: 开始阅读 →
 actionLink: /blog/
