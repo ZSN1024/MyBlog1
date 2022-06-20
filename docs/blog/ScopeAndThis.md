@@ -108,7 +108,7 @@ this关键字是JavaScript中最复杂的机制之一，This其实 就是一个�
 
 ![默认](/MyBlog/blog/bangding1.jpg)
 
-如果在浏览器环境中运行，那么结果就是 Hello,wejoydata
+如果在浏览器环境中运行，那么结果就是 Hello,check
 但是如果在node环境中运行，结果就是 Hello,undefined
 
 ### 隐式绑定
